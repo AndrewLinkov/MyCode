@@ -6,7 +6,6 @@ public class CyclesENDLESS {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-
         for (; ; ) {
             System.out.println("Выберете операцию! ");
             int value = scanner.nextInt();
