@@ -23,7 +23,6 @@ public class Data {
         persons.add(person5);
         persons.add(person6);
         persons.add(person7);
-
     }
 
     public static List<Person> getPersons() {

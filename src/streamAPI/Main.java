@@ -7,7 +7,6 @@ public class Main {
     public static void main(String[] args) {
         List<Person> persons = Data.getPersons();
 
-
         // Использование Stream API
 
         //Использование методов .filter .sorted
@@ -28,13 +27,9 @@ public class Main {
                 //Применим метод, который возвратит коллекцию
                 .collect(Collectors.toList());
 
-
         //Получение списка персон с помощью цикла
         for (int i = 0; i < persons1.size(); i++) {
             System.out.println(persons1.get(i));
         }
-
-
-
     }
 }
