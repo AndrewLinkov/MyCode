@@ -4,7 +4,7 @@ package A4_collections.list.arrayList;
 
 import java.util.ArrayList;
 
-public class ArL_1 {
+public class ArrayList_1 {
     public static void main(String[] args) {
         // Создание объекта ArrayList
         ArrayList<String> fruits = new ArrayList<>();
