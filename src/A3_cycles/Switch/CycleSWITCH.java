@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class CycleSWITCH {
     public static void main(String[] args) {
+
         Scanner scanner = new Scanner(System.in);
         int x = scanner.nextInt();
 
@@ -21,8 +22,5 @@ public class CycleSWITCH {
                 System.out.println("Неправильно введено число");
                 break;
         }
-
-
-
     }
 }

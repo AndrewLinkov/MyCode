@@ -2,6 +2,7 @@ package A1_operation;
 
 public class Operation_logik {
     public static void main(String[] args) {
+
         int a = 5;
         int b = 6;
 
@@ -26,6 +27,7 @@ public class Operation_logik {
         } else if ((a | b) != 5) {
             System.out.println("a или b не= 5");
         }
+
 
 /*
         System.out.println("Логическое исключающее ИЛИ (XOR) возвращает true если хотя бы один и только один из операндов 5");

@@ -4,6 +4,9 @@ package A2_arrays;
 
 public class ar2 {
     public static void main(String[] args) {
+
+        //2. Напишите программу, которая находит сумму всех чисел в массиве.
+
         int array[] = {1, 2, 12, 5, 6, 8};
 
         var sum = 0;
@@ -17,6 +20,7 @@ public class ar2 {
         for (int i = 0; i < array.length; i++) {
             sum2 += array[i];
         }
+
         System.out.println("Результат sum2: " + sum2);
     }
 

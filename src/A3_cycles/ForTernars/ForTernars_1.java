@@ -1,6 +1,6 @@
 package A3_cycles.ForTernars;
 
-public class FR_1 {
+public class ForTernars_1 {
     public static void main(String[] args) {
 
         int i = 0;

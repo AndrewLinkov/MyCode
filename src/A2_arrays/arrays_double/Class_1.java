@@ -2,6 +2,7 @@ package A2_arrays.arrays_double;
 
 public class Class_1 {
     public static void main(String[] args) {
+
         int[][] array = {
                 {1, 2, 3, 4, 5},
                 {6, 7, 8, 9, 10, 11},
@@ -16,7 +17,7 @@ public class Class_1 {
         System.out.println(array[2].length);
 
         System.out.println();
-        //Элементы сичтаются по принципу - строка - столбец
+        //Элементы считаются по принципу - строка - столбец
         // строка 0, столбец 0
         System.out.println(array[0][0]);
 

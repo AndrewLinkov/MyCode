@@ -17,7 +17,6 @@ public class ScannerTest {
         int int2 = scannerInt.nextInt();
         System.out.println(int1 + int2);
 
-
         // ввод значений String
         Scanner scannerString = new Scanner(System.in);
         System.out.print("Введите строку: ");

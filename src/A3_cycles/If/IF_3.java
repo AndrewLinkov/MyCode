@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class IF_3 {
     public static void main(String[] args) {
+
         Scanner scanner = new Scanner(System.in);
         System.out.println("Выберете значение");
         int sc = scanner.nextInt();

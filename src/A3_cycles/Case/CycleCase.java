@@ -2,6 +2,7 @@ package A3_cycles.Case;
 
 public class CycleCase {
     public static void main(String[] args) {
+
         int a = 9;
         switch (a) {
             case 0:
@@ -16,7 +17,6 @@ public class CycleCase {
                 break;
             default:
                 System.out.println("!");
-
         }
     }
 }

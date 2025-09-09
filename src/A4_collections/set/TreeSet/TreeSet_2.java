@@ -4,10 +4,11 @@ import java.util.TreeSet;
 
 public class TreeSet_2 {
     public static void main(String[] args) {
-        // Создаем TreeSet
+
+        // РЎРѕР·РґР°РЅРёРµ TreeSet
         TreeSet<String> treeSet = new TreeSet<>();
 
-        // Добавление элементов
+        // Р”РѕР±Р°РІР»РµРЅРёРµ СЌР»РµРјРµРЅС‚РѕРІ Set
         treeSet.add("AAA");
         treeSet.add("CCC");
         treeSet.add("String");

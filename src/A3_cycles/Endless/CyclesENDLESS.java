@@ -11,19 +11,23 @@ public class CyclesENDLESS {
             int value = scanner.nextInt();
             switch (value) {
                 case 1:
-                    System.out.println("Выбрана оперция сложения!");
-                    System.out.println("Введите занчение 1 и 2");
+                    System.out.println("Выбрана операция сложения!");
+                    System.out.println("Введите значение 1 и 2");
+
                     int int1 = scanner.nextInt();
                     int int2 = scanner.nextInt();
                     int resultSum = int1 + int2;
+
                     System.out.println("Результат: " + resultSum);
                     break;
                 case 2:
                     System.out.println("Выбрана операция вычитания");
                     System.out.println("Введите занчение 1 и 2");
+
                     int int11 = scanner.nextInt();
                     int int22 = scanner.nextInt();
                     int result = int11 - int22;
+
                     System.out.println("Результат: " + result);
                     break;
                 default:

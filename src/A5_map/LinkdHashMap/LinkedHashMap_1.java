@@ -5,6 +5,7 @@ import java.util.Map;
 
 public class LinkedHashMap_1 {
     public static void main(String[] args) {
+
         LinkedHashMap<Integer, String> map = new LinkedHashMap<>();
 
         map.put(1, "Apple");
@@ -13,18 +14,17 @@ public class LinkedHashMap_1 {
         map.put(4, "Grapes");
         map.put(5, "Kiwi");
 
-        System.out.println("Промежуточный статус: ");
         for (Map.Entry<Integer, String> entry : map.entrySet()) {
-            System.out.println("Номер позиции: " + entry.getKey() + " Фрукт: " + entry.getValue());
+            System.out.println("Р’С‹РІРѕРґ Key: " + entry.getKey() + " Р’С‹РІРѕРґ Value: " + entry.getValue());
         }
 
+        // Р”РѕР±Р°РІР»РµРЅРёРµ СЌР»РµРјРµРЅС‚РѕРІ
         map.put(5, "KIWI");
         map.put(3, "ORANGE");
 
-        System.out.println("Промежуточный статус: ");
+        System.out.println("Р’С‹РІРѕРґ РєРѕР»Р»РµРєС†РёРё: ");
         for (Map.Entry<Integer, String> entry : map.entrySet()) {
-            System.out.println("Номер позиции: " + entry.getKey() + " Фрукт: " + entry.getValue());
+            System.out.println("Р’С‹РІРѕРґ Key: " + entry.getKey() + " Р’С‹РІРѕРґ Value: " + entry.getValue());
         }
-
     }
 }

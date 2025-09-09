@@ -6,6 +6,7 @@ import java.util.ArrayList;
 
 public class ArrayList_1 {
     public static void main(String[] args) {
+
         // Создание объекта ArrayList
         ArrayList<String> fruits = new ArrayList<>();
 
