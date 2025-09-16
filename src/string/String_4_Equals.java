@@ -1,6 +1,6 @@
 package string;
 
-public class Str_4_Equals {
+public class String_4_Equals {
     public static void main(String[] args) {
 
         String str1 = "Hello";
