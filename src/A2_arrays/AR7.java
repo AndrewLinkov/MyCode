@@ -1,6 +1,6 @@
 package A2_arrays;
 
-public class ar7 {
+public class AR7 {
     public static void main(String[] args) {
 
         /*

@@ -1,6 +1,6 @@
 package A2_arrays;
 
-public class ar3 {
+public class AR3 {
     public static void main(String[] args) {
 
         //3. Напишите программу, которая находит количество четных и нечетных

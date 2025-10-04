@@ -2,7 +2,7 @@ package hashCode;
 
 import java.util.Objects;
 
-public class HashCadeTest {
+public class HashCodeTest {
     public static void main(String[] args) {
 
         // Получение HashCode строки

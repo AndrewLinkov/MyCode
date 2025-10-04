@@ -6,8 +6,9 @@ package A2_arrays.arrays_Stepic;
 
 import java.util.Scanner;
 
-public class Ars_2 {
+public class AR_Stepic2 {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
         System.out.println("Введено число n ");
         int n = sc.nextInt();

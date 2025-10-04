@@ -1,4 +1,5 @@
-//типовой пример
+
+// Типовой пример работы ArrayList
 
 package A4_collections.list.arrayList;
 

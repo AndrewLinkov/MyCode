@@ -1,6 +1,6 @@
 package A2_arrays;
 
-public class ar8 {
+public class AR8 {
     public static void main(String[] args) {
 
         // 8. Напишите программу, которая находит наибольший и наименьший элемент в массиве.

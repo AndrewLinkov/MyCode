@@ -12,7 +12,6 @@ public class Palindrom_1 {
 
         if (str.length() < 20) {
             /*
-
             \\p{Punct} - все знаки препинания
             \\s - все пробелы
             [^a-zA-Z0-9] - все буквы и цифры

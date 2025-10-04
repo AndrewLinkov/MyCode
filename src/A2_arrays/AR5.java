@@ -3,7 +3,7 @@
 
 package A2_arrays;
 
-public class ar5 {
+public class AR5 {
     public static void main(String[] args) {
 
         /*

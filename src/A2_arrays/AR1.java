@@ -1,6 +1,6 @@
 package A2_arrays;
 
-public class ar1 {
+public class AR1 {
     public static void main(String[] args) {
 
         //1. Напишите программу, которая находит среднее арифметическое чисел в массиве,

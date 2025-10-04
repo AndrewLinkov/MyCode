@@ -2,7 +2,7 @@
 
 package A2_arrays;
 
-public class ar9 {
+public class AR9 {
     public static void main(String[] args) {
 
         // 9. Напишите программу, которая находит количество уникальных элементов в массиве.

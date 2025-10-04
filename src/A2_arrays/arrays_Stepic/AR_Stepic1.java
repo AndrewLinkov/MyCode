@@ -6,8 +6,14 @@ package A2_arrays.arrays_Stepic;
 
 import java.util.Scanner;
 
-public class Ars_1 {
+public class AR_Stepic1 {
     public static void main(String[] args) {
+
+        /*
+        На вход подаётся натуральное число n. Создайте массив натуральных чисел от единицы
+        до n включительно и выведите его на печать (в одной строке, через пробел).
+         */
+
         Scanner sc = new Scanner(System.in);
         System.out.println("Введено число n ");
         int n = sc.nextInt();
@@ -16,6 +22,7 @@ public class Ars_1 {
         int[] mas = new int[n];
         for (int i = 0; i < n; i++)
             mas[i] = sc.nextInt();
+
         // вводится число b на которое нужно умножить введенные числа массива
         System.out.println("Введите число b:");
         int b = sc.nextInt();

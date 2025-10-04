@@ -2,7 +2,7 @@
 
 package A2_arrays;
 
-public class ar2 {
+public class AR2 {
     public static void main(String[] args) {
 
         //2. Напишите программу, которая находит сумму всех чисел в массиве.
